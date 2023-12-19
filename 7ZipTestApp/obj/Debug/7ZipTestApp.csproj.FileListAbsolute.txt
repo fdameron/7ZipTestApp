@@ -1,0 +1,11 @@
+C:\Users\FDA\source\repos\7ZipTestApp\7ZipTestApp\bin\Debug\7ZipTestApp.exe.config
+C:\Users\FDA\source\repos\7ZipTestApp\7ZipTestApp\bin\Debug\7ZipTestApp.exe
+C:\Users\FDA\source\repos\7ZipTestApp\7ZipTestApp\bin\Debug\7ZipTestApp.pdb
+C:\Users\FDA\source\repos\7ZipTestApp\7ZipTestApp\obj\Debug\7ZipTestApp.csproj.CoreCompileInputs.cache
+C:\Users\FDA\source\repos\7ZipTestApp\7ZipTestApp\obj\Debug\7ZipTestApp.csproj.CopyComplete
+C:\Users\FDA\source\repos\7ZipTestApp\7ZipTestApp\obj\Debug\7ZipTestApp.exe
+C:\Users\FDA\source\repos\7ZipTestApp\7ZipTestApp\obj\Debug\7ZipTestApp.pdb
+C:\Users\FDA\source\repos\7ZipTestApp\7ZipTestApp\bin\Debug\SevenZipSharp.dll
+C:\Users\FDA\source\repos\7ZipTestApp\7ZipTestApp\bin\Debug\SevenZipSharp.xml
+C:\Users\FDA\source\repos\7ZipTestApp\7ZipTestApp\obj\Debug\7ZipTestApp.csproj.AssemblyReference.cache
+C:\Users\FDA\source\repos\7ZipTestApp\7ZipTestApp\bin\Debug\Ionic.Zip.dll
